@@ -16,7 +16,8 @@ The site uses the `update.py` script from this repository to update the site wit
 ## Requirements
 You need to make sure to have the following dependencies installed before using `update.py`:
 
-* Python 2.7.x
+* Python 2.7.x or 3.1
+* Java JDK 17 ([Linux](https://www.oracle.com/java/technologies/downloads/#jdk17-linux), [MacOS](https://www.oracle.com/java/technologies/downloads/#jdk17-mac), [Windows](https://www.oracle.com/java/technologies/downloads/#jdk17-windows))
 * Lunr.py (search)
 * Requests (http requests)
 
